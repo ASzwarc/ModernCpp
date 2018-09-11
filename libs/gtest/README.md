@@ -1,0 +1,1 @@
+This files were created by using fuse_gmock_files.py from googletest-release-1.8.1/googlemock/scripts
